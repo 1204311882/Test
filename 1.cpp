@@ -1,5 +1,6 @@
 include "stdio"
 using namespace std
-int main()
+main()
 {
+  cout<<abc<<endl;
 }
